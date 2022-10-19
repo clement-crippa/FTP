@@ -10,6 +10,7 @@ PASSWORD=1234
 
 ftp -inv $HOST <<EOF
 user $USER $PASSWORD
-mput *.tar.gz
+mput $back.tar.gz
 bye
 EOF
+sudo rm $back.tar.gz
