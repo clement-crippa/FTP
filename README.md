@@ -1,4 +1,5 @@
 Tous les scripts sont à exécuter en su.   
+Ne pas oublier de remplacer les ip par la votre  
 Toutes les configurations du FTP et du DNS se trouvent dans le Job 11
 
 Job 2    
