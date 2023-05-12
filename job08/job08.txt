@@ -1,0 +1,16 @@
+Pour déposer un nom de domaine, il faut s'adresser à l'un des nombreux prestataires agrées.
+Ou bien par exemple pour un .fr, le site de l'Association française pour le nommage internet en coopération - Afnic - l'organisme qui gère uniquement les noms de domaine en suffixe .fr.
+
+.fr peut être attribué à toute entité ou personne ayant une existence légale en France,sans autre condition.(.be pour la belgique. .it pour l'Italie etc...)
+
+.com plus "global" que le .fr (à l'origine il était destiné aux entreprises commerciales),
+mais aussi moins "fiable" car aucune condition particulière n'est exigée pour son dépôt.
+
+.net à l'origine destiné aux structures liées à Internet. Fonctionnant comme le .com, i
+peut aujourd'hui être déposé par toute personne.
+
+.org à l'origine destiné aux structures à but non commercial. Il est aujourd'hui aussi
+"ouvert" que le .com.
+
+Et il en existe encore davantage , le choix de l'extension dépend de nos besoins.
+Il est possible de déposer le même nom de domaine sous différentes extensions.
