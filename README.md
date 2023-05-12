@@ -14,7 +14,7 @@ Job 5
 Utilisation de FileZila comme client FTP
 
 Job 6   
-Connexion en SFTP
+Connexion en FTPS
 
 Job 7   
 Ping du DNS avec son nom de domaine dnsproject.prepa.com
