@@ -1,8 +1,17 @@
 Tous les scripts sont à exécuter en su.   
 Toutes les configurations du FTP et du DNS se trouvent dans le Job 11
 
-Job 2  
+Job 2    
 Commande de proftpd
+
+Job 3  
+Création de 2 utilisateurs  
+
+Job 4  
+Activer les connexions anonyme au FTP
+
+Job 5   
+Utilisation de FileZila comme client FTP
 
 Job 6   
 Connexion en SFTP
