@@ -18,7 +18,7 @@ Connexion au FTP avec l'adresse du DNS
 
 Job 11    
 Script pour automatiser l'installation et la configuration de serveur FTP et DNS .
-Ne pas oublier de remplacer les ips par celle de sa machine dans les fichiers du dossier.
+Ne pas oublier de remplacer les adresses ip par celle de sa machine dans les fichiers du dossier.
 
 Job 12    
 Script pour automatiser la désinstallation du serveur FTP et DNS .
