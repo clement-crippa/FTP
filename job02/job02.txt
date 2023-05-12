@@ -2,3 +2,9 @@ Démarrer proftpd : sudo service proftpd start
 Stop prodtpd : sudo service proftpd stop
 Redémarrer proftpd : sudo service proftpd restart
 Les fichiers de configurations de proftpd se trouvent dans etc/proftpd
+
+On peut aussi utiliser :
+
+Démarrer proftpd : systemctl start proftpd
+Stop prodtpd : systemctl stop proftpd
+Redémarrer proftpd : systemctl restart proftpd
