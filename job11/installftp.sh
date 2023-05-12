@@ -20,7 +20,7 @@ sudo cp ./db.dnsproject.prepa.com /etc/bind/db.dnsproject.prepa.com
 sudo cp ./named.conf.local /etc/bind/named.conf.local
 sudo cp ./named.conf.options /etc/bind/named.conf.options
 echo Création du lien symbolique des config;
-# Création de la clé  et du formulaire pour le SFTP
+# Création de la clé  et du formulaire pour le FTPS
 sudo openssl req -new -x509 -keyout /etc/proftpd/ssl/proftpd.key.pem -days 365 -nodes -out /etc/proftpd/ssl/proftpd.cert.pem <<EOF
 FR
 France
